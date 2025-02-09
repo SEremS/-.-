@@ -1,0 +1,13 @@
+vosk==0.3.45
+PyAudio==0.2.13
+thread==0.1.2
+pvporcupine==1.9.5
+mouse==0.7.1
+pyowm==3.3.0
+keyboard==0.13.5
+PyAutoGUI==0.9.54
+pywin32==306
+pywin32-ctypes==0.2.2
+comtypes==1.2.0
+pycaw==20230407
+pyttsx3==2.90
